@@ -1,0 +1,8 @@
+# Python for AI-ML: the exact tools and versions this course uses.
+# Rebuild the box anywhere with:  pip install -r requirements.txt
+# Works on Python 3.11, 3.12, 3.13 and 3.14.
+pandas==3.0.5
+numpy==2.3.5
+scikit-learn==1.9.1
+scipy==1.16.3
+anthropic==2.8.0

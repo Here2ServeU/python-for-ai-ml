@@ -1,0 +1,21 @@
+# Your project box: rebuild it with `pip install -r requirements.txt`
+.venv/
+venv/
+
+# Outputs the scripts create (rebuild them by running the modules)
+summary.json
+metrics.json
+summary.md
+calls.log
+
+# Secrets: never upload keys
+.env
+*.key
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
